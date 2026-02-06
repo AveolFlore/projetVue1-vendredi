@@ -1,4 +1,4 @@
-
+<!-- 
 Vous avez dit :
 Quoi afficher exactement :
 
@@ -366,4 +366,4 @@ Rechercher
 
 Créer l’image
 
-Voix
+Voix -->
